@@ -15,7 +15,7 @@ $(document).ready(function(){
           "color":"navy",
           "font-size":"30px",
           "background-image":"url('img/redhead.jpg')",
-          "background-size":"50vh 65vh"
+          "background-size":"100% 100%"
        } )
   })
   $(".btn2").click(function(){
